@@ -1,4 +1,4 @@
-Toolkit v1 is an automated batch-based utility designed to streamline system maintenance, cleaning, and quick-command execution. It includes:
+Windows Lite Patcher Plugin (WLPP) is an automated batch-based utility designed to streamline system maintenance, cleaning, and quick-command execution. It includes:
 
 installer.bat — sets up the toolkit environment, creates folders, and installs components.
 
