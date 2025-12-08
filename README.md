@@ -4,6 +4,13 @@ installer.bat — sets up the toolkit environment, creates folders, and installs
 
 main.bat — the main interactive menu with auto-admin execution and cleaning functions.
 
+HOW TO INSTALL:
+1. Extract WLPP.zip
+2. Run Installer.bat it will automatically administrator
+3. Wait for progress
+4. Your computer will restarted after instalation
+
+
 Key Features
 1. Auto Administrator Execution
 
